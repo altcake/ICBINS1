@@ -1,6 +1,6 @@
-info face="C:\Users\Joseph\Presents Font" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1
+info face="Presents Font" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1
 common lineHeight=17 base=26 scaleW=82 scaleH=85 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
-page id=0 file="C:\Users\Joseph\Presents Font.png"
+page id=0 file="Presents Font.png"
 chars count=25
 char id=65 x=38 y=0 width=16 height=16 xoffset=0 yoffset=1 xadvance=17 page=0 chnl=0 letter="A"
 char id=66 x=17 y=17 width=16 height=16 xoffset=0 yoffset=1 xadvance=17 page=0 chnl=0 letter="B"

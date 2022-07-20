@@ -66,7 +66,7 @@ TextureImporter:
       213: -6092838827139370426
     second: PigRun2
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -86,6 +86,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -95,8 +97,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -117,9 +119,13 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -599,6 +605,28 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      FlickyJump: 9019373763816266724
+      RabbitRun2: -4833626766433692717
+      FlickyRun2: -4478850341619296808
+      PenguinRun1: -8191655542184758446
+      RabbitJump: 6455056407819782761
+      PigJump: 4681880070738648663
+      SquirrelRun2: -4443940915569323481
+      RabbitRun1: -7215904273875148823
+      SquirrelRun1: -6236331891154998238
+      PenguinRun2: -603948111711771586
+      FlickyRun1: -4411306147214391960
+      ChickenRun1: -254621877609487355
+      SealRun1: -1545973559942269793
+      SquirrelJump: 5430550113344622123
+      ChickenJump: 7225033841109164126
+      SealRun2: -1756989528434171185
+      ChickenRun2: -4567274391288446603
+      PigRun1: 8748086789093495922
+      PigRun2: -6092838827139370426
+      PenguinJump: -1938909139059683853
+      SealJump: 8270486954380013558
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

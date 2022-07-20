@@ -60,7 +60,7 @@
                     return col;
 
                 if (all(col.rgb < 0.01)) {
-                    if (int(_Time[1] * 60) % 2 == 0)
+                    if (uint(_Time[1] * 60) % 2 == 0)
                         col.rgb = 1 - col.rgb;
                 }
 

@@ -198,7 +198,7 @@ TextureImporter:
       213: 867860618482567137
     second: LightDash2
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -218,6 +218,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -227,8 +229,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -249,9 +251,13 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -1337,7 +1343,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a2c5a8140a33c60459ff1714fc9c7c50
-      internalID: 6076045283706875241
+      internalID: 217051687894004775
       vertices: []
       indices: 
       edges: []
@@ -1436,6 +1442,61 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Spindash5: -8811064824406196559
+      Fast4: -7954658308581492485
+      Victory2: -5688961864793063451
+      Roll1: 9026653125545254721
+      Balance1: -5020800759952322934
+      Cling1: 8634110367539937840
+      Push3: 8726237218514219974
+      Balance2: 1497343878844864150
+      Push1: 3686278129055456481
+      Float2: -7018856811369311759
+      Spring: -34473927919941411
+      Run1: -8093970894575400373
+      Spindash3: 4303218703985966611
+      Fast1: 6076045283706875241
+      Run2: -3076036196972145286
+      Walk6: -3639971751376154678
+      Die: 6756012548996264608
+      Roll4: 7667271278605092995
+      Float1: -1225106116249996035
+      Push4: -5393465295247868589
+      Walk4: -5793942053181497214
+      Walk2: 2485191351505791988
+      Roll3: 4738404868588878713
+      Fall1: 8825569214061719254
+      Idle4: -2049887405163946548
+      Spindash6: 3002699266687436928
+      Run4: 259056869688478196
+      LightDash2: 867860618482567137
+      Spindash1: 1708095252544911728
+      Idle2: -6046858221822612837
+      Victory1: 7893028384525869340
+      Spindash4: -3157461828496032887
+      LookDown: -8611970590259506487
+      Fall2: 3768560602979851072
+      Roll2: -7678981871872028265
+      Walk3: -5668598245818792002
+      Cling2: 2927758184818962740
+      Skid2: 4301632543896015803
+      Fast2: 217051687894004775
+      Run3: -996815012592783174
+      Idle3: -5979524767642726181
+      Drown: 8600622054229294229
+      Fast3: -8878924802812445402
+      Float3: 3277486589570343946
+      Skid1: 2212210638842834612
+      LightDash1: -6690336852913336975
+      Spindash2: -5677665865439445809
+      Idle1: -9085156922857477136
+      Breathe: -4187582106154420222
+      LookUp: 1478903545895810411
+      Roll5: 2556831078250682835
+      Push2: 3677545382341493987
+      Walk1: -1386471870679867142
+      Walk5: 8863326537842058231
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

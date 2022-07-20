@@ -25,8 +25,8 @@ public class Arrows2DMovement {
 
     static Arrows2DMovement(){
 		//avoid registering twice to the SceneGUI delegate
-		SceneView.onSceneGUIDelegate -= OnSceneView;
-		SceneView.onSceneGUIDelegate += OnSceneView;
+		SceneView.duringSceneGui -= OnSceneView;
+		SceneView.duringSceneGui += OnSceneView;
 	}
 
 	static void OnSceneView(SceneView sceneView){
